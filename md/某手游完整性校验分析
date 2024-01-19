@@ -1,17 +1,4 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [bbs.kanxue.com](https://bbs.kanxue.com/thread-279440.htm)
-
-> [原创] 某手游完整性校验分析
-
-[原创] 某手游完整性校验分析
-
-2023-11-2 23:16 9313
-
-[举报](javascript:void(0);)
-
-### [原创] 某手游完整性校验分析
-
- [![](https://bbs.kanxue.com/view/img/avatar.png)](user-home-953698.htm) [wx_嗨](user-home-953698.htm) ![](https://bbs.kanxue.com/view/img/rank/7.png)  ![](http://passport.kanxue.com/pc/view/img/moon.gif)![](http://passport.kanxue.com/pc/view/img/moon.gif)![](http://passport.kanxue.com/pc/view/img/star.gif) [ 举报](javascript:void(0);) 2023-11-2 23:16  9313
-
 前言
 --
 
@@ -254,5 +241,5 @@ returnResult: f7cd650e96ce6febe3467ff7c88ef87c8fb54b972bd3ca8a2c6ab4c60ed371f14e
 *   基于 il2cpp 中的 ServerVerifyApk 函数进行更详细的分析，直接对其检测去除
 
 ps. 仅限于学习交流，切勿用于商业用途，若造成侵权，请联系作者处理。  
-样本链接：[https://pan.baidu.com/s/1awWYCF2nT50qPRj8_CRt-A?pwd=d8wn](https://pan.baidu.com/s/1awWYCF2nT50qPRj8_CRt-A?pwd=d8wn)
+样本链接：https://github.com/miangit/cloud_file_storage/releases/download/v1/com.meta.peopleground.dream.v1.0.1.apk
 
