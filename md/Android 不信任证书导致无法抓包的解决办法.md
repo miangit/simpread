@@ -1,16 +1,3 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [bbs.kanxue.com](https://bbs.kanxue.com/thread-274137-1.htm)
-
-> Android 不信任证书导致无法抓包的解决办法
-
-Android 不信任证书导致无法抓包的解决办法
-
-2022-8-23 14:18 6277
-
-[举报](javascript:void(0);)
-
-### Android 不信任证书导致无法抓包的解决办法
-
- [![](http://passport.kanxue.com/upload/avatar/709/887709.png?1659609858)](user-home-887709.htm) [Ankeys](user-home-887709.htm) ![](https://bbs.kanxue.com/view/img/rank/0.png)  ![](http://passport.kanxue.com/pc/view/img/star_0.gif) [ 举报](javascript:void(0);) 2022-8-23 14:18  6277
 
 前言
 ==
