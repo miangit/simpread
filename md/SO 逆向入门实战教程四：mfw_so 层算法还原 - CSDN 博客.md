@@ -726,5 +726,4 @@ for t in range(80):
 
 除此之外，样本中还有一个魔改 Hmac，嘤，大家可以学习和研究一下。
 
-资料链接：https://pan.baidu.com/s/1MHe0Oen6KKsdWru0YWTUzQ  
-提取码：ro1x
+资料链接https://github.com/miangit/simpread/releases/download/backup/unidbg4.7z
