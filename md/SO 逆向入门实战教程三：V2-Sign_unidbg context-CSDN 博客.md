@@ -1063,5 +1063,4 @@ public void callMd5(){
 
 凭心而论，在补 JNI 环境那块儿讲的有点含糊，想把此处讲清实在不容易，JNItrace 是补 JNI 环境的利器，但它的实操体验并不顺畅。在额外的文章中，我们把这个问题讲清楚，下一篇是深度魔改哈希算法，敬请期待。
 
-资料链接：https://pan.baidu.com/s/1_ydXiPKgG-zpTYu8xwWG8A  
-提取码：bm0b
+资料链接https://github.com/miangit/simpread/releases/download/backup/unidbg3.7z
