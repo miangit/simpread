@@ -728,5 +728,4 @@ public int call37A4(int num1, int num2){
 
 #### 五、尾声
 
-链接：https://pan.baidu.com/s/1zAe4KqIh3yBkf3FGafbe9Q  
-提取码：0djf
+链接https://github.com/miangit/simpread/releases/download/backup/unidbg9.7z
