@@ -582,4 +582,4 @@ NICE，大功告成。
 
 这个样本十分简单，但让我们更多的理解了 Unidbg 的功能，下一讲中，让我们解锁更难的样本，探索 Unidbg 更多功能吧！
 
-样本https://github.com/miangit/cloud_file_storage/releases/download/v1/unidbg2.7z
+样本https://github.com/miangit/simpread/releases/download/backup/unidbg2.7z
