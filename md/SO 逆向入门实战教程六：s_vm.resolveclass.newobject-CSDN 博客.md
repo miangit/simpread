@@ -517,5 +517,4 @@ public class LibBili1 {
 
 资料
 
-链接：https://pan.baidu.com/s/1FgOd-mmUbTOv5V_onz-Tpw  
-提取码：2qtk
+链接https://github.com/miangit/simpread/releases/download/backup/unidbg6.7z
