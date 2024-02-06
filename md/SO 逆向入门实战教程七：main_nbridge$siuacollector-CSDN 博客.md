@@ -862,5 +862,4 @@ public void main203(){
 #### 四、尾声
 
 这是上下文缺失和补充的一个例子  
-资源链接：https://pan.baidu.com/s/1e-u8hbHqCFnS9P0vVM8GbQ  
-提取码：igcw
+资源链接https://github.com/miangit/simpread/releases/download/backup/unidbg7.7z
