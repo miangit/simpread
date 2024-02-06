@@ -460,5 +460,4 @@ nonce+timestamp+devicetoken+(固定的 salt)td9#Kn_p7vUw
 #### 五、尾声
 
 这不是一篇简单的文章，放第五篇有些偏前，而且其方法内核基于加密算法的深度理解，看不懂或者看不下去都没关系，下一篇恢复正常，和此篇没有关联性。但笔者必须要强调，文中所述的这种方法，是一种强大的、无视混淆流程的，真正意义上深入底层的标准算法还原技术，尤其在”加盐哈希算法 “中分析” 盐“格外强大，甚至存在编写代码自动化完成相关工作的可能性。  
-资源链接：https://pan.baidu.com/s/1b24egt-FEbcRlQYeOwpNYQ  
-提取码：1t4l
+资源链接https://github.com/miangit/simpread/releases/download/backup/unidbg5.7z
