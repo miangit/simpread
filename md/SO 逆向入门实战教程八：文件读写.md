@@ -1102,5 +1102,4 @@ Unidbg 如何实现一个 VirtualModule？此类问题我们在更后面的文�
 
 #### 六、尾声
 
-链接：https://pan.baidu.com/s/14MNPM3Rayb2RYgDS_T5pnw  
-提取码：4974
+链接https://github.com/miangit/simpread/releases/download/backup/unidbg8.7z
