@@ -298,5 +298,4 @@ B：Unidbg 支持 Xhook、HookZz 等 Hook 工具，以及 IDA server 和 GDB。�
 A：噢，有用例吗？  
 B：下一篇详细介绍！
 
-链接：https://pan.baidu.com/s/1J1MqSJT2Kyai8eDqwRjOqQ  
-提取码：y4q2
+链接：https://github.com/miangit/simpread/releases/download/backup/getproperty.7z
