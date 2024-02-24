@@ -236,7 +236,7 @@ data 段的 address 是 0x60000，offset 是 0x5f000。可以使用 010Editor �
 
 #### 3.2 样本二
 
-文件 [zuiyou.latest.pc-guanwang.zip](https://www.yuque.com/attachments/yuque/0/2022/zip/707476/1659321088051-eca4aef1-d6e1-4c6e-ba31-479f6a954320.zip?_lake_card=%7B%22src%22%3A%22https%3A%2F%2Fwww.yuque.com%2Fattachments%2Fyuque%2F0%2F2022%2Fzip%2F707476%2F1659321088051-eca4aef1-d6e1-4c6e-ba31-479f6a954320.zip%22%2C%22name%22%3A%22zuiyou.latest.pc-guanwang.zip%22%2C%22size%22%3A45641281%2C%22ext%22%3A%22zip%22%2C%22source%22%3A%22%22%2C%22status%22%3A%22done%22%2C%22download%22%3Atrue%2C%22type%22%3A%22application%2Fx-zip-compressed%22%2C%22mode%22%3A%22title%22%2C%22taskId%22%3A%22u313314a6-fafa-4dbe-a8ae-c883a1818c2%22%2C%22taskType%22%3A%22upload%22%2C%22__spacing%22%3A%22both%22%2C%22id%22%3A%22ua1495791%22%2C%22margin%22%3A%7B%22top%22%3Atrue%2C%22bottom%22%3Atrue%7D%2C%22card%22%3A%22file%22%7D)  
+文件 [zuiyou.latest.pc-guanwang.zip](https://github.com/miangit/simpread/releases/download/backup/zuiyou.latest.pc-guanwang.zip)  
 打开 net_crypto ，有了之前的经验，我们直接来到 data 段  
 ![](https://img-blog.csdnimg.cn/img_convert/19c1c83f2eab88116ad52599fec3b563.png#averageHue=#fbfbfa&clientId=u870d188f-bf79-4&from=paste&height=703&id=u0502d586&><br> IDA 的自动注释显示，这些字符都被 decodexxx 函数引用，交叉引用跳过去看看。<br> <img class=)mt.7z  
 在之前的函数分析一节，我们通过被引用引用最多的函数
