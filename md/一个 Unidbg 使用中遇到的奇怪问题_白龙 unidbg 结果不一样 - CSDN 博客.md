@@ -14,5 +14,4 @@
 
 #### 三、尾声
 
-链接：https://pan.baidu.com/s/1aO2_dnE4M08pE4oahpaTJQ  
-提取码：c6ad
+链接：https://github.com/miangit/simpread/releases/download/backup/mtyx.7z
