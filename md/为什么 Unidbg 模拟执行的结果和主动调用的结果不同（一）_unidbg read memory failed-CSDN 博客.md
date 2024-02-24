@@ -421,5 +421,4 @@ public void hookgetEnv(){
 #### 四、尾声
 
 在我的另外一台日用机上，RS 的结果为 5，你知道怎么补到 5 吗？欢迎来到《Unidbg 应用与实战》课堂上寻找答案哟。  
-链接：https://pan.baidu.com/s/1QeXcCBFj_JqBoKr5LBIgwQ  
-提取码：sc4j
+链接：https://github.com/miangit/simpread/releases/download/backup/findDiff1.7z
